@@ -1,3 +1,4 @@
+
 # ServiceNow Coding Standards
 
 ## Table of Contents
@@ -13,9 +14,13 @@
 
 ## Fields
 <a name="fields--column-label"></a><a name="1.1"></a>
-* [1.1](#fields--column-label) **Column labels**
-  * Use capital for first letter of first word then lowercase for all subsequent words.
-  * Avoid using any puncuation or special characters.
-  * Capitalize all letters for acronyms.
+[1.1](#fields--column-label) **Column labels**
+  1. Use capital for first letter of first word then lowercase for all subsequent words.
+  2. Avoid using any puncuation or special characters.
+  3. Capitalize all letters for acronyms.
  
-    > Why? Most of the system uses this naming convention. Staying consistent we keep the forms looking clean.
+> Why? Most of the system uses this naming convention. Staying consistent we keep the forms looking clean.
+
+        Implementation plan
+        Reason for change
+        Risk
