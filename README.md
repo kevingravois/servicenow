@@ -13,9 +13,10 @@
 
 ## Fields
 <a name="fields--column-label"></a><a name="1.1"></a>
-- [1.1](#fields--column-label) **Column labels**: Use capital for first letter of first word then lowercase for all subsequent words. Avoid using any puncuation or special characters.
+- [1.1](#fields--column-label) **Column labels**: Use capital for first letter of first word then lowercase for all subsequent words. Avoid using any puncuation or special characters. Capitalize all letters for acronyms.
 
     > Why? They allow you to define all the properties of an object in one place.
 
     + `Event time`
     + `Validation plan attached`
+    + `Job ID`
