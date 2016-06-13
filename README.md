@@ -18,11 +18,11 @@
     * Avoid using any puncuation or special characters.
     * Capitalize all letters for acronyms.
 
-    > Why? Most of the system uses this naming convention. Staying consistent we keep the forms looking clean.
+      > Why? Most of the system uses this naming convention. Staying consistent we keep the forms looking clean.
 
-    + `Event time`
-    + `Validation plan attached`
-    + `Job ID`
+      + `Event time`
+      + `Validation plan attached`
+      + `Job ID`
     
 <a name="fields--column-name"></a><a name="1.2"</a>
 - [1.2](#fields--column-name) **Column names**: Try to have the column name match the column label. If the column label is too long use either the first couple of words or make an acronym if applicable.
