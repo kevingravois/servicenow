@@ -12,7 +12,7 @@
 6. [UI Scripts](#ui-scripts)
 7. 
 
-## Types
+## Fields
 <a name="fields--column-label"></a><a name="1.1"></a>
 - [1.1](#fields--column-label) **Column labels**: Use capital for first letter of first word then lowercase for all subsequent words. Avoid using any puncuation or special characters.
 
