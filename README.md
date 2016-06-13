@@ -14,7 +14,9 @@
 ## Fields
 <a name="fields--column-label"></a><a name="1.1"></a>
 - [1.1](#fields--column-label) **Column labels**
-    - Use capital for first letter of first word then lowercase for all subsequent words. Avoid using any puncuation or special characters. Capitalize all letters for acronyms.
+    * Use capital for first letter of first word then lowercase for all subsequent words.
+    * Avoid using any puncuation or special characters.
+    * Capitalize all letters for acronyms.
 
     > Why? Most of the system uses this naming convention. Staying consistent we keep the forms looking clean.
 
