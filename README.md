@@ -8,6 +8,6 @@
 4. [Logging](#logging)
 4. [Script Includes](#script-includes)
 5. [Business Rules](#business-rules)
-6. [Access Control] (ACL)](#access-control)
+6. [Access Controls (ACL)](#access-control)
 6. [UI Scripts](#ui-scripts)
 7. 
