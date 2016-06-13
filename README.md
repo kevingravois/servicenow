@@ -15,4 +15,5 @@
 ## Types
 <a name="fields--column-label"></a><a name="1.1"></a>
 - [1.1](#fields--column-label) **Column labels**: Use capital for first letter of first word then lowercase all other words. Avoid using any puncuation or special characters.
+
     > Why? They allow you to define all the properties of an object in one place.
