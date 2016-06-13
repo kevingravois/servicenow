@@ -10,7 +10,6 @@
 5. [Business Rules](#business-rules)
 6. [Access Controls (ACL)](#access-control)
 6. [UI Scripts](#ui-scripts)
-7. 
 
 ## Fields
 <a name="fields--column-label"></a><a name="1.1"></a>
