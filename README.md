@@ -18,5 +18,5 @@
 
     > Why? They allow you to define all the properties of an object in one place.
 
-    + 'Event time'
-    + 'Validation plan attached'
+    + `Event time`
+    + `Validation plan attached`
